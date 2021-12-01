@@ -1,0 +1,2 @@
+/* Escribir una funcion a la que se le pase como parametros un vector de numeros enteros y la cantidad de numeros almacenados en dicho vector. 
+Dicha funcion debe calcular el maximo de los numeros almacenados y devolverlo */
